@@ -1,0 +1,20 @@
+
+    signup.microsoft.com/signup?sku=Education
+
+
+    signup.azure.com/studentverification?offerType=1
+
+
+    signup.azure.com/studentverification?offerType=2
+
+
+Azure 200刀试用（【365A1P账号登陆注册 免信用卡200刀试用】）注册地址：
+
+    azure.microsoft.com/en-us/free
+
+
+
+sudo bash -c "$(curl -s -L https://git.io/v2ray.sh)"
+
+
+    account.azure.com/Subscriptions

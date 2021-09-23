@@ -25,15 +25,15 @@
 2、再输入$ git remote add origin git@github.com:XXX/XXXX.git
 
 
-## git config --global user.name "your name"
-## git config --global user.email "your email"
+        git config --global user.name "your name"
+        git config --global user.email "your email"
 
-## git add -A / --all
-## git add XX.txt
-## git commit -m "XXXX"
-## git push origin master
+        git add -A / --all
+        git add XX.txt
+        git commit -m "XXXX"
+        git push origin master
 
-## ssh-keygen -t rsa -C "your_email@youremail.com"
+        ssh-keygen -t rsa -C "your_email@youremail.com"
 
 ## github delete history
 
